@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Noto Sans Telugu', 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+.font-ramabhadra {
+  font-family: 'Ramabhadra', 'Noto Sans Telugu', sans-serif;
+}
+
+.font-gurajada {
+  font-family: 'Gurajada', 'Noto Sans Telugu', serif;
+}
+
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}

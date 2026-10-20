@@ -1,0 +1,6 @@
+{
+  "name": "Telugu Festival Banner Creator",
+  "description": "Create authentic South Indian festival banners for Ugadi, Sankranti, Dasara, Deepavali, Vinayaka Chavithi, and Bathukamma in Telugu and English with instant download and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
